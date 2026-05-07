@@ -1,5 +1,8 @@
 
-# Distributed Image Compression with Multimodal Side Information at Extremely Low Bitrates
+<h1 align="center">
+  Distributed Image Compression with <br>
+  Multimodal Side Information at Extremely Low Bitrates
+</h1>
 
 <p align="center">
   <b>Guojun Xu</b>, Mingyang Zhang, Jianwen Xiang, Cheng Tan, Yanchao Yang, Junwei Zhou
