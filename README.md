@@ -136,6 +136,15 @@ CUDA_VISIBLE_DEVICES=0 python src/train_sd_perco_2.py \
 
 ---
 
+### Pretrained Weights
+
+For diffusion-related pretrained weights and model downloads, please refer to the official PerCo repository:
+
+- PerCo Repository: https://github.com/Nikolai10/PerCo
+
+We follow the same setup and pretrained model configuration as the PerCo baseline.
+
+
 ## 🙏 Acknowledgements
 
 Our implementation is built upon the excellent work of **PerCo**.
