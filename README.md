@@ -26,7 +26,7 @@ Distributed Image Compression (DIC) is crucial for multi-view transmission, espe
 
 <!-- You can insert framework figure here -->
 <p align="center">
-  <img src="figure/model.jpg" width="85%">
+  <img src="figure/model.jpg" width="98%">
 </p>
 
 ---
