@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>Your Institution Name</i>
+  <i>School of Computer Science and Artificial Intelligence, Wuhan University of Technology</i>
 </p>
 
 <p align="center">
